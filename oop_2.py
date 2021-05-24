@@ -13,5 +13,8 @@ class ball:
            print(s[val]) 
     
 
-obj = ball() 
-obj.fun()
+import math
+# obj = ball() 
+# obj.fun
+print(math.gcd(15,25,125))
+
